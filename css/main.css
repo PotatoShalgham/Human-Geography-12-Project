@@ -66,6 +66,7 @@ img {
 
 .nav ul li a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(255, 255, 255);
     text-decoration:none;
     display: block;
     padding: 15px;
